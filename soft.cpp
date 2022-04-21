@@ -2,8 +2,6 @@
 Channel Coding Course Work: conolutional codes
 This program template has given the message generator, BPSK modulation, AWGN channel model and BPSK demodulation,
 you should first determine the encoder structure, then define the message and codeword length, generate the state table, write the convolutional encoder and decoder.
-
-If you have any question, please contact me via e-mail: wuchy28@mail2.sysu.edu.cn
 ***************************************************/
 
 #define  _CRT_SECURE_NO_WARNINGS
